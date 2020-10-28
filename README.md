@@ -14,11 +14,11 @@ This repository consists of files required for end to end implementation and dep
 
 ## App Link
 If you want to view the deployed model, click on the following link:<br />
-[https://airlinefareprediction.herokuapp.com/](https://airlinefareprediction.herokuapp.com/)
+[https://allysoncaragency.herokuapp.com/](https://allysoncaragency.herokuapp.com/)
 
 A glimpse of the web app:
 
-![GIF](readme_resources/flight-web-app.gif)
+![GIF](readme_resources/carpred.gif)
 
 • If you encounter this webapp as shown in the picture given below, it is occuring just because **free dynos for this particular month provided by the Heroku platform have been completely used.** You can access the webpage on 1st of the next month.
 
